@@ -1,12 +1,11 @@
 {
-  "name": "simplefolio",
+  "name": "Madhav Somanath | Portfolio",
   "version": "1.0.1",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "My attempt at yet another portfolio website!",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js --open",
     "build": "webpack --config webpack.prod.js",
-    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "Madhav Somanath",
@@ -30,7 +29,6 @@
   },
   "dependencies": {
     "bootstrap": "^4.5.0",
-    "gh-pages": "^3.1.0",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1",
     "tilt.js": "^1.2.1"

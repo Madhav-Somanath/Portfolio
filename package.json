@@ -1,11 +1,11 @@
 {
-  "name": "Madhav Somanath | Portfolio",
+  "name": "simplefolio",
   "version": "1.0.1",
-  "description": "My attempt at yet another portfolio website!",
+  "description": "My attempt at yet another portfolio website.",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js --open",
-    "build": "webpack --config webpack.prod.js",
+    "build": "webpack --config webpack.prod.js"
   },
   "keywords": [],
   "author": "Madhav Somanath",

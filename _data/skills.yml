@@ -1,0 +1,32 @@
+languages:
+  - item: Python
+  - item: SQL
+  - item: JavaScript
+  - item: TypeScript
+  - item: HTML
+  - item: CSS/Sass
+  - item: R
+
+frameworks:
+  - item: Keras
+  - item: Tensorflow 2.x
+  - item: Scikit-Learn
+  - item: Node.js
+  - item: Flask
+  - item: Django
+  - item: React.js
+  - item: D3.js
+
+tools:
+  - item: Git & Github
+  - item: MongoDB
+  - item: Visual Studio
+  - item: LaTeX
+  - item: Adobe Creative Suite
+  - item: Colab
+
+cloud:
+  - item: Azure
+  - item: AWS
+  - item: Google Cloud
+  - item: IBM Cloud

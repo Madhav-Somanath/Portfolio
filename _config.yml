@@ -1,0 +1,38 @@
+# Site settings
+name: Madhav Somanath
+title: Madhav Somanath | AI/ML Enthusiast | Full-stack Developer
+description: Enthusiastic developer bringing keen insights &amp; value to business solutions.
+url: https://maadhavsomanath.netlify.app/
+baseurl: ''
+email: madhav.somanath@gmail.com
+logo: img\emojis\rocket.png
+resume: https://drive.google.com/file/d/1h1DiA4nWCHuhDT050pzK3GPGppFZsgBS/view?usp=sharing
+social:
+  - title: instagram
+    url: https://instagram.com/madhav_somanath
+  - title: github
+    url: https://github.com/Madhav-Somanath
+  - title: LinkedIn
+    url: https://linkedin.com/in/madhav-somanath
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

@@ -43,7 +43,7 @@
 - name: Finding Donors
   url: https://github.com/Madhav-Somanath/CharityML-UdacitySLProject
   code: https://github.com/Madhav-Somanath/CharityML-UdacitySLProject
-  description: A project undertaking topics such as regression, SVM, K nearest neighbours, Decision Trees etc. Part of Udacity Machine Leanring with Tensorflow Nanodegree course (Supervised learning).
+  description: A project undertaking topics such as regression, SVM, K nearest neighbors, Decision Trees etc. Part of Udacity Machine Leanring with Tensorflow Nanodegree course (Supervised learning).
   used:
     - thing: Numpy
     - thing: Pandas
@@ -69,7 +69,7 @@
   used:
     - thing: React.js
     - thing: HTML
-    - thing: SCSS
+    - thing: CSS
     - thing: JavaScript
     - thing: Node.js
     - thing: Context API
@@ -92,7 +92,6 @@
   code: hhttps://github.com/Madhav-Somanath/JavaScriptPiano
   description: A basic one octave piano made with JavaScript, HTML and CSS using Visual Studio Code editor.
   used:
-    - thing: VS Code
     - thing: HTML
     - thing: CSS
     - thing: JavaScript
@@ -105,5 +104,4 @@
     - thing: JavaScript
     - thing: HTML
     - thing: CSS
-    - thing: VS Code
     - thing: Node.js

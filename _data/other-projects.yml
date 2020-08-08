@@ -1,3 +1,14 @@
+- name: TensorDo: The smart To-Do list
+  url: https://smartlist.netlify.app
+  code: https://github.com/Madhav-Somanath/ToDoList-Tensorflow.js
+  description: A React.js based To-Do list which implements TensorFlow.js to classify the user input to the list and suggest an icon for better classification. 
+  used:
+    - thing: JavaScript
+    - thing: HTML
+    - thing: CSS
+    - thing: React.js
+    - thing: Tensorflow.js
+
 - name: K-Means Clustering Visualizer
   url: https://madhav-somanath.github.io/Kmeans
   code: https://github.com/Madhav-Somanath/K-means-clustering

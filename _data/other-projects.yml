@@ -74,7 +74,7 @@
     - thing: CSS
 
 - name: React.js Expense Tracker
-  url: https://madhav-somanath.github.io/ExpenseTracker
+  url: https://madhav-somanath.github.io/ExpenseTrackerReact
   code: https://github.com/Madhav-Somanath/ExpenseTrackerReact
   description: An auto updating expense tracker made with React.js and Context API, built with support for future backend database.
   used:
